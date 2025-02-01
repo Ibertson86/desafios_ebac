@@ -10,4 +10,8 @@ Módulo 24 - Aprendizado de Máquina: Classificação
 
 Utilizei o mesmo dataset penguins, dessa vez para analisar sob a ótica das árvores de decisão (Decision Trees), utilizando a biblioteca Graphviz e métricas como Acurácia (Accuracy Score) e Matriz de Confusão (Confusion Matrix).
 
+Módulo 25 - Aprendizado de Máquina: Agrupamento
+
+Aqui começa o aprendizado não-supervisionado, utilizando os conceitos de clusterização, K-Means e centróides para agrupar elementos não-rotulados que possuem determinado padrão. Utilizei o dataset Iris e alguns métodos, como o método Cotovelo (Elbow Method) para fazer as análises.
+
 
